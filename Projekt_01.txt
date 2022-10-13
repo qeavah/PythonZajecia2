@@ -1,3 +1,7 @@
 
 
 print('Rozpoczynam mój projekt testowy')
+
+print('Tutaj będzie pierwsza zmiana do projektu')
+
+
