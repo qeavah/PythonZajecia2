@@ -12,3 +12,14 @@ lista = [1,2,3,4,5]
 for x in lista:
 	print(x) 
 
+
+#
+3#
+
+ofijwaj
+\fewajiofewa
+fjeiaw
+fejaewiafew
+
+jifoewa
+
