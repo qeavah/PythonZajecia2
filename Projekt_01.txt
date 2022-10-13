@@ -1,0 +1,3 @@
+
+
+print('Rozpoczynam mój projekt testowy')
