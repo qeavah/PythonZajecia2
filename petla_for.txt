@@ -1,6 +1,14 @@
 
 
-# przykład pętli for
+# przykład 01 pętli for
+
 for i in range(5):
 	print(i)
+
+# przykład 02 pętli for
+
+lista = [1,2,3,4,5]
+
+for x in lista:
+	print(x) 
 
